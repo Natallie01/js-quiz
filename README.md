@@ -1,6 +1,8 @@
 # Javascript quiz
+<img src="./assets/images/codequiz.png" width="600"/>
 
 # Link to published URL
+ https://natallie01.github.io/js-quiz/
  
 # Purpose 
 * AS A coding boot camp student
