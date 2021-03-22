@@ -1,0 +1,20 @@
+
+/* hide sections til they are shown on click events */
+#questions,
+#final,
+#highscores,
+#yaynay {
+  display: none;
+}
+
+/* Button styling */
+.btn {
+  background-color: rgb(126, 127, 128);
+  color: white;
+}
+
+/* Remove bullet points from answers list */
+ul.nobullets {
+  list-style-type: none;
+}
+
